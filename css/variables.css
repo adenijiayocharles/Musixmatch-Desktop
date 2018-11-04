@@ -1,0 +1,10 @@
+:root{
+    --main-bg-color: #FFF;
+    --primary-font-family: 'Segoe UI';
+    --secondary-font-family: 'Source Sans Pro', sans-serif;;
+    --primary-font-color: #2C3E50;
+    --secondary-font-color-one: #FF4E3F; 
+    /* FF6050 */
+    --secondary-font-color-two: #FF0E83;
+    --color-gray: #C8C8C8;
+}
